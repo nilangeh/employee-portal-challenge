@@ -64,6 +64,8 @@ public class EmployeeController {
 		employee.setEmailId(employeeDetails.getEmailId());
 		employee.setLastName(employeeDetails.getLastName());
 		employee.setFirstName(employeeDetails.getFirstName());
+		employee.setDept(employeeDetails.getDept());
+		employee.setSalary(employeeDetails.getSalary());
 		final Employee updatedEmployee = employeeDao.save(employee);
 		return ResponseEntity.ok(updatedEmployee);
 	}

@@ -9,7 +9,7 @@ Validate jwt token with claims
 
 RequestBody -
 {
-	"username" : "harshada",
+	"username" : "admin",
 	"password" : "password"
 }
 ----------------------------------------

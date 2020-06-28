@@ -1,4 +1,4 @@
-package allianz.project.challenge.employee.AuthConfig;
+package allianz.project.challenge.employee.authconfig;
 
 import java.io.IOException;
 

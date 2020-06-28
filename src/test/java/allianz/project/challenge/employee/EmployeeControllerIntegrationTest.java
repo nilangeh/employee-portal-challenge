@@ -22,6 +22,7 @@ import allianz.project.challenge.employee.model.Employee;
 
 
 /**
+ * Junit test cases for integration tests
  * 
  * @author harshada
  *

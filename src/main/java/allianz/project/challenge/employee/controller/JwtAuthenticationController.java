@@ -16,9 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-
-
-import allianz.project.challenge.employee.AuthConfig.JWTTokenUtil;
+import allianz.project.challenge.employee.authconfig.JWTTokenUtil;
 import allianz.project.challenge.employee.model.JwtRequest;
 import allianz.project.challenge.employee.model.JwtResponse;
 
